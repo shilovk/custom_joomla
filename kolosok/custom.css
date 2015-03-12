@@ -1,0 +1,45 @@
+.logoheader {
+  margin-top:-100px;
+  margin-bottom: -35px;
+}
+
+#header ul.menu {
+ margin-top: 140px !important;
+  z-index: 1000;
+}
+
+ul li {
+ background-color: #CECEF6 !important; 
+}
+
+ul.menu a:active, ul.menu a:hover {
+ background-color: gold !important; 
+}
+
+ul.menu li a {
+ padding: 5px 5px;
+}
+
+.article-info {
+  margin-top: -50px !important;
+}
+
+#area-3 {
+  display: none !important;
+}
+
+#contentarea {
+  background-color: #F2F5A9 !important;
+}
+
+#wrapper2 {
+  background-color: Azure !important;  
+}
+.item-page, #main {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.module_content  {
+  background-color:  #D8BFD8 !important;
+}
